@@ -31,7 +31,7 @@ body{
 .left-section{
     flex: 1;
     max-width: 35%;
-    background: linear-gradient(135deg,bisque,rgb(81, 79, 76) ,rgb(154, 140, 124));
+    background: linear-gradient(135deg,bisque,rgb(130, 176, 11),pink);
     color:black;
     padding: 20px;
     text-align: center;
